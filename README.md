@@ -1,0 +1,1 @@
+Base on https://github.com/JasonHongGG/NotionDBManager Data Output
